@@ -1,0 +1,10 @@
+# ビルド生成物
+*.o
+*.bin
+*.elf
+*.iso
+*.img
+
+# OSが勝手に作るファイル
+.DS_Store
+Thumbs.db

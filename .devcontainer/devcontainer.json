@@ -1,0 +1,14 @@
+{
+    "name": "OS Development Env",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-vscode.cpptools",
+                "googlecloudtools.cloudcode"
+            ]
+        }
+    }
+}
